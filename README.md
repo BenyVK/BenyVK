@@ -23,12 +23,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- آمار با انیمیشن -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenyVK&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&animate=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenyVK&layout=compact&theme=radical&hide_border=true&animate=true" />
-</p>
-
-<p align="center">
   <!-- Streak Stats با انیمیشن -->
   <img src="https://streak-stats.demolab.com?user=BenyVK&theme=radical&hide_border=true&fire=DD2727&ring=7C3AED&currStreakLabel=7C3AED&animate=true" alt="GitHub Streak" />
 </p>
@@ -62,12 +56,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenyVK&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7C3AED&line=DD2727&point=FFFFFF&area_color=7C3AED" alt="Activity Graph" />
 </p>
 
-## 🎯 Current Focus
-<p align="center">
-  <!-- Focus با انیمیشن -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BenyVK&repo=BenyVK&theme=radical&show_owner=true&animate=true" />
-</p>
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -91,17 +79,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" />
   </a>
 </p>
-
-<!-- موزیک پلیر متحرک (اختیاری) -->
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
-</p>
-
-<!-- افکت بارش ستاره -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BenyVK/BenyVK/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="100%" />
-</div>
-
 ⭐ *From [BenyVK](https://github.com/BenyVK)*
 
 <!-- مارپیچ پایین صفحه -->
