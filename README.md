@@ -76,16 +76,4 @@
   </a>
 </p>
 
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- اگر از RSS استفاده میکنی، میتونی اینجا پست‌های وبلاگ رو نمایش بدی -->
-<!-- BLOG-POST-LIST:END -->
-
-## 📈 GitHub Activity Graph
-![Benyamin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BenyVK&theme=react-dark&hide_border=true)
-
----
-
 ⭐ *From [BenyVK](https://github.com/BenyVK)*
