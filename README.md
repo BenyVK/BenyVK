@@ -1,11 +1,4 @@
-# 👋 Hi, I'm Benyamin
-
 ### 🚀 Full-Stack Developer & Security Enthusiast
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BenyVK&theme=onedark&no-frame=true&margin-w=15" alt="trophies" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BenyVK&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
