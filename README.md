@@ -5,9 +5,7 @@
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<div style="background-color: #ff69b4; padding: 0.2rem 0.9rem; display: inline-block;">
-    <span style="color: white; font-size: 1.6rem; font-weight: 700; font-family: 'Segoe UI', sans-serif;">FATI</span>
-</div>
+<iframe src="https://test.gharri.ir/logo.html" width="200" height="100" frameborder="0"></iframe>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
